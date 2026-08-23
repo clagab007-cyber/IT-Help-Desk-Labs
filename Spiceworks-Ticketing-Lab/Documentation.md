@@ -69,7 +69,6 @@ For each ticket I documented:
 - Troubleshooting steps taken
 - Root cause
 - Resolution
-- Verification
 
 **Screenshot:**  
 *(Add screenshot of a resolved ticket with notes)*
