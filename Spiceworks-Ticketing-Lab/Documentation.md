@@ -71,15 +71,18 @@ For each ticket I documented:
 - Resolution
 
 **Screenshot:**  
-*(Add screenshot of a resolved ticket with notes)*
+*![Categories](Screenshots/resolved-ticket1.png)*
+*![Categories](Screenshots/resolved-ticket2.png)*
+*![Categories](Screenshots/resolved-ticket3.png)*
 
 ### 7. Knowledge Base Articles
 I created short knowledge base articles for common issues so future tickets can be resolved faster.
 
 **Screenshot:**  
-*(Add screenshot of knowledge base articles)*
+*![Categories](Screenshots/knowledge-base-article.png)*
+
 
 ---
 
 ## Summary
-This lab gave me hands-on experience with a real help desk ticketing system. I practiced the full ticket lifecycle that a Tier 1 technician uses every day: creating, triaging, updating, escalating, and resolving tickets while following proper documentation and SLA standards.
+This lab gave me hands-on experience with a real help desk ticketing system. I practiced the full ticket lifecycle that a Tier 1 technician uses every day: creating, triaging, updating, escalating, and resolving tickets while following proper documentation and creating rules for different priorities baed on SLA standards.
