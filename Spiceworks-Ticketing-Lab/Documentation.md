@@ -38,7 +38,7 @@ I created multiple simulated end-user tickets covering common help desk issues.
 - **Status:** Open → In Progress → Resolved
 
 **Screenshot:**  
-*(Add screenshot of ticket creation)*
+*![Categories](Screenshots/ticket-creation.png)*
 
 ### 3. Changing Ticket Status
 I practiced moving tickets through the normal help desk workflow:
