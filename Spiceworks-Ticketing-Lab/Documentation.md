@@ -2,12 +2,12 @@
 
 ## Project Overview
 In this lab I practiced using Spiceworks Cloud Help Desk as a Tier 1 Help Desk technician.  
-I created tickets, assigned statuses, worked with SLAs, escalated issues, and resolved support requests.
+I created tickets, assigned statuses, created rules, escalated issues, and resolved support requests.
 
 ## Skills Demonstrated
 - Creating and managing support tickets
 - Setting and tracking ticket statuses (Open, In Progress, Resolved, Closed)
-- Working with SLAs
+- Creating rules
 - Escalating tickets
 - Documenting resolutions
 - Creating knowledge base articles
