@@ -55,13 +55,13 @@ I practiced moving tickets through the normal help desk workflow:
 I created rules and resolution times for different priorities.
 
 **Screenshot:**  
-*![Categories](Screenshots/SLA-Rules.png)*
+*![Categories](Screenshots/sla-Rules.png)*
 
 ### 5. Escalating a Ticket
 I escalated a ticket that required higher-level support with detailed note.
 
 **Screenshot:**  
-*![Categories](Screenshots/Escalating-Ticket.png)*
+*![Categories](Screenshots/escalating-Ticket.png)*
 
 ### 6. Resolving Tickets
 For each ticket I documented:
