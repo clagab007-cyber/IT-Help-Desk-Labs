@@ -79,7 +79,7 @@ For each ticket I documented:
 I created short knowledge base articles for common issues so future tickets can be resolved faster.
 
 **Screenshot:**  
-*![Categories](Screenshots/knowledge-base-article.png)*
+*![Categories](Screenshots/knowledgebase-article.png)*
 
 
 ---
