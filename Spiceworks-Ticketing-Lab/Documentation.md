@@ -43,15 +43,15 @@ I created multiple simulated end-user tickets covering common help desk issues.
 ### 3. Changing Ticket Status
 I practiced moving tickets through the normal help desk workflow:
 1. Open
-2. In Progress
-3. Pending
-4. Resolved
-5. Closed
+2. Waiting
+3. Closed
 
 **Screenshot:**  
-*(Add screenshot showing status changes)*
+1. *![Categories](Screenshots/ticket-open.png)*
+2. *![Categories](Screenshots/ticket-waiting.png)*
+3. *![Categories](Screenshots/ticket-closed.png)###
 
-### 4. Working with SLAs
+4. Working with SLAs
 I configured and monitored SLA response and resolution times for different priorities.
 
 **Screenshot:**  
