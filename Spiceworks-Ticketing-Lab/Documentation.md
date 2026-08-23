@@ -49,19 +49,19 @@ I practiced moving tickets through the normal help desk workflow:
 **Screenshot:**  
 1. *![Categories](Screenshots/ticket-open.png)*
 2. *![Categories](Screenshots/ticket-waiting.png)*
-3. *![Categories](Screenshots/ticket-closed.png)###
+3. *![Categories](Screenshots/ticket-closed.png)*
 
-4. Working with SLAs
-I configured and monitored SLA response and resolution times for different priorities.
+### 4. Created rules based on ticket category.
+I created rules and resolution times for different priorities.
 
 **Screenshot:**  
-*(Add screenshot of SLA settings or timers)*
+*![Categories](Screenshots/SLA-Rules.png)*
 
 ### 5. Escalating a Ticket
-I escalated a ticket that required higher-level support and documented the reason for escalation.
+I escalated a ticket that required higher-level support with detailed note.
 
 **Screenshot:**  
-*(Add screenshot of escalated ticket)*
+*![Categories](Screenshots/Escalating-Ticket.png)*
 
 ### 6. Resolving Tickets
 For each ticket I documented:
