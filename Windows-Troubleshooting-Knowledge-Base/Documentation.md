@@ -21,11 +21,11 @@ Each issue was intentionally broken in a Windows 11 virtual machine, then diagno
 
 **Troubleshooting Steps:**
 1. Checked network status in Settings → Network & Internet
-2. Opened Command Prompt and ran `ipconfig`
+2. Opened Command Prompt and ran `ipconfig` to verify IP address
 3. Verified if the adapter was enabled
 4. Ran `ipconfig /release` and `ipconfig /renew`
 5. Flushed DNS with `ipconfig /flushdns`
-6. Re-enabled the network adapter
+6. Corrected IP configuration and re-enabled the network adapter
 
 **Root Cause:**  
 Network adapter was disabled / Invalid IP configuration
