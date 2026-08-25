@@ -37,7 +37,11 @@ Re-enabled the adapter and renewed the IP address
 Successfully opened a website and confirmed a valid IP address
 
 **Screenshot:**  
-*(Add screenshot here)*
+*![Categories](Screenshots/Network-offline.pngPNG)*
+*![Categories](Screenshots/IPconfig-IP.png.PNG)*
+*![Categories](Screenshots/Enable-Network-Adapter.png)*
+*![Categories](Screenshots/IPconfig:release-:renew.png.PNG)*
+*![Categories](Screenshots/Network-Connected.png.PNG)*
 
 ---
 
