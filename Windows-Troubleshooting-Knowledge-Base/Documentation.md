@@ -38,9 +38,13 @@ Successfully opened a website and confirmed a valid IP address
 
 **Screenshot:**  
 *![Categories](Screenshots/Network-offline.png)*
+
 *![Categories](Screenshots/IPconfig-IP.png)*
+
 *![Categories](Screenshots/Enable-Network-Adapter.png)*
+
 *![Categories](Screenshots/IPconfig/release-/renew.png)*
+
 *![Categories](Screenshots/Network-connected.png)*
 
 ---
