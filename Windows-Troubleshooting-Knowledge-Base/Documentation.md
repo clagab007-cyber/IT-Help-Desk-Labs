@@ -118,9 +118,9 @@ Updated the email app and restarted the device
 User can send and receive emails successfully
 
 **Screenshot:**  
-*![Categories](Screenshots/Screenhot-1.png)*
+*![Categories](Screenshots/Screenshot-1.png)*
 
-*![Categories](Screenshots/Screenhot-2.png)*
+*![Categories](Screenshots/Screenshot-2.png)*
 
 *![Categories](Screenshots/Screenshot-3.png)*
 
