@@ -79,7 +79,7 @@ Cleared the spooler folder and restarted the Print Spooler service
 Print queue is empty and test page no longer shows error
 
 **Screenshot:**  
-*(Add screenshot here)*
+**
 
 ---
 
