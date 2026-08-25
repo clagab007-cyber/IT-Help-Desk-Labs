@@ -83,7 +83,7 @@ Print queue is empty and test page no longer shows error
 
 *![Categories](Screenshots/Cleared-print-queue.png)*
 
-*![Categories](Screenshots/Stopped-printSpooler)*
+*![Categories](Screenshots/Stopped-printSpooler.png)*
 
 *![Categories](Screenshots/Cleared-spool-PRINTERS.png)*
 
