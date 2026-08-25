@@ -81,7 +81,7 @@ Print queue is empty and test page no longer shows error
 **Screenshot:**  
 *![Categories](Screenshots/Printer-Error-Offline.png)*
 
-*![Categories](Screenshots/Cleared-print-queu.png)*
+*![Categories](Screenshots/Cleared-print-queue.png)*
 
 *![Categories](Screenshots/Stopped-printSpooler)*
 
