@@ -41,9 +41,9 @@ Successfully opened a website and confirmed a valid IP address
 
 *![Categories](Screenshots/IPconfig-IP.png)*
 
-*![Categories](Screenshots/Enable-Network-Adapter.png)*
-
 *![Categories](Screenshots/IPconfig-relase-renew.png)*
+
+*![Categories](Screenshots/Enable-Network-Adapter.png)*
 
 *![Categories](Screenshots/Network-connected.png)*
 
