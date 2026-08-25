@@ -118,13 +118,13 @@ Updated the email app and restarted the device
 User can send and receive emails successfully
 
 **Screenshot:**  
-*![Categories](Screenshots/Screenhot1.png)*
+*![Categories](Screenshots/Screenhot-1.png)*
 
-*![Categories](Screenshots/Screenhot2.png)*
+*![Categories](Screenshots/Screenhot-2.png)*
 
-*![Categories](Screenshots/Screenshot3.png)*
+*![Categories](Screenshots/Screenshot-3.png)*
 
-*![Categories](Screenshots/Screenshot4.png)*
+*![Categories](Screenshots/Screenshot-4.png)*
 
 
 ---
