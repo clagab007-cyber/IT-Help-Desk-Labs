@@ -103,11 +103,10 @@ Print queue is empty and test page no longer shows error
 - Simulated outdated email app / profile issue
 
 **Troubleshooting Steps:**
-1. Asked for more details about the problem
-2. Identified which email application was being used
-3. Checked for app updates
-4. Updated the application and restarted the device
-5. Confirmed email was working again
+1. Identified which email application was being used
+2. Checked for app updates
+3. Updated the application and restarted the device
+4. Confirmed email was working again
 
 **Root Cause:**  
 Outdated email application
@@ -119,7 +118,14 @@ Updated the email app and restarted the device
 User can send and receive emails successfully
 
 **Screenshot:**  
-*(Add screenshot here)*
+*![Categories](Screenshots/Screenhot1.png)*
+
+*![Categories](Screenshots/Screenhot2.png)*
+
+*![Categories](Screenshots/Screenshot3.png)*
+
+*![Categories](Screenshots/Screenshot4.png)*
+
 
 ---
 
