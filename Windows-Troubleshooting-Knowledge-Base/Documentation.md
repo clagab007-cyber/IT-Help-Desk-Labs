@@ -159,7 +159,17 @@ Closed resource-heavy programs and freed disk space
 System performance returned to normal
 
 **Screenshot:**  
-*(Add screenshot here)*
+*![Categories](Screenshots/Task-Manager.png)*
+
+*![Categories](Screenshots/CPU-Memory-Disk-usage.png)*
+
+*![Categories](Screenshots/High-ressource-processes.png)*
+
+*![Categories](Screenshots/Disable-unnecessary-app.png)*
+
+*![Categories](Screenshots/Closed-unnecessary-program.png)*
+
+*![Categories](Screenshots/Restart-computer.png)*
 
 ---
 
