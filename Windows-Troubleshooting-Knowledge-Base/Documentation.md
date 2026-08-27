@@ -2,7 +2,7 @@
 
 ## Project Overview
 This lab documents hands-on troubleshooting of common Windows issues that a Help Desk technician faces daily.  
-Each issue was intentionally broken in a Windows 11 virtual machine, then diagnosed and fixed using standard support methods.
+Each issue was intentionally broken in a Windows 11 virtual machine (VMware), then diagnosed and fixed using standard support methods.
 
 ---
 
@@ -218,4 +218,4 @@ User successfully logged in
 ---
 
 ## Summary
-These five labs cover the most common issues handled by Help Desk technicians: network problems, printer issues, email failures, slow performance, and account/login problems. Each issue was documented with symptoms, troubleshooting steps, root cause, and resolution.
+These five labs covers some of the common issues handled by Help Desk technicians: network problems, printer issues, email failures, slow performance, and account/login problems. Each issue was documented with symptoms, troubleshooting steps, root cause, and resolution.
