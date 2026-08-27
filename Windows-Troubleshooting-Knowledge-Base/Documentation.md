@@ -202,7 +202,18 @@ Reset password and unlocked the account
 User successfully logged in
 
 **Screenshot:**  
-*(Add screenshot here)*
+
+*![Categories](Screenshots/Test-User-Account.png)*
+
+*![Categories](Screenshots/Breaked-LogIn.png)*
+
+*![Categories](Screenshots/Failed-LogIn.png)*
+
+*![Categories](Screenshots/Unlocked-Account-Prompt.png)*
+
+*![Categories](Screenshots/Password-Reset.png)*
+
+*![Categories](Screenshots/Successful-LogIn.png)*
 
 ---
 
